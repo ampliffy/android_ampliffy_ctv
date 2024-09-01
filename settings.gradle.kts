@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AmpliffyCTVExample"
 include(":app")
- 
+include(":AmpliffyCTV")
